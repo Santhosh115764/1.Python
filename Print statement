@@ -1,0 +1,131 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "5f6971b8-b347-4030-a8c3-15afd0d8740f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "welcome to AI\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"welcome to AI\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "ac1010ac-cd1a-4df3-aea1-bfb12b030807",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "40\n"
+     ]
+    }
+   ],
+   "source": [
+    "num1=10\n",
+    "num2=30\n",
+    "add=num1+num2\n",
+    "print(add)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "c764e983-d471-49c3-a4c2-e8869d24b9d4",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "num1=85\n",
+    "num2=43"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "500626cb-bce6-43f6-94a5-53dee456a67f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "The subraction of two numbers\n",
+      "the number1: 85\n",
+      "the number2: 43\n",
+      "the subraction: 42\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"The subraction of two numbers\")\n",
+    "print(\"the number1:\",num1)\n",
+    "print(\"the number2:\",num2)\n",
+    "print(\"the subraction:\",num1-num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "8c996f12-8c33-4694-8257-91070bb973e5",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "the addition of  two numbers\n",
+      "the number1: 85\n",
+      "the number2: 43\n",
+      "the addition: 128\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"the addition of  two numbers\")\n",
+    "print(\"the number1:\",num1)\n",
+    "print(\"the number2:\",num2)\n",
+    "print(\"the addition:\",num1+num2)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4ec5c843-0188-454e-af78-c9eb78ba7ccc",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
